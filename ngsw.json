@@ -1,0 +1,128 @@
+{
+  "configVersion": 1,
+  "timestamp": 1558917178182,
+  "index": "/demo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/demo/5.15e5a408c0b01938a02b.js",
+        "/demo/es2015-polyfills.1e04665e16f944715fd2.js",
+        "/demo/favicon.ico",
+        "/demo/index.html",
+        "/demo/main.eb90ccbfcac3baf98c2a.js",
+        "/demo/polyfills.8bbb231b43165d65d357.js",
+        "/demo/runtime.724b8dc463fbe6a0062c.js",
+        "/demo/styles.a3670646bf2b095052a7.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/demo/assets/aerolighting.svg",
+        "/demo/assets/aerolighting_inkscape.svg",
+        "/demo/assets/aerolighting_letter.png",
+        "/demo/assets/aerolighting_letter.svg",
+        "/demo/assets/icons-new/apple-touch-icon-114x114.png",
+        "/demo/assets/icons-new/apple-touch-icon-120x120.png",
+        "/demo/assets/icons-new/apple-touch-icon-144x144.png",
+        "/demo/assets/icons-new/apple-touch-icon-152x152.png",
+        "/demo/assets/icons-new/apple-touch-icon-57x57.png",
+        "/demo/assets/icons-new/apple-touch-icon-60x60.png",
+        "/demo/assets/icons-new/apple-touch-icon-72x72.png",
+        "/demo/assets/icons-new/apple-touch-icon-76x76.png",
+        "/demo/assets/icons-new/code.txt",
+        "/demo/assets/icons-new/favicon-128.png",
+        "/demo/assets/icons-new/favicon-16x16.png",
+        "/demo/assets/icons-new/favicon-196x196.png",
+        "/demo/assets/icons-new/favicon-32x32.png",
+        "/demo/assets/icons-new/favicon-96x96.png",
+        "/demo/assets/icons-new/favicon.ico",
+        "/demo/assets/icons-new/mstile-144x144.png",
+        "/demo/assets/icons-new/mstile-150x150.png",
+        "/demo/assets/icons-new/mstile-310x150.png",
+        "/demo/assets/icons-new/mstile-310x310.png",
+        "/demo/assets/icons-new/mstile-70x70.png",
+        "/demo/assets/icons/icon-128x128.png",
+        "/demo/assets/icons/icon-144x144.png",
+        "/demo/assets/icons/icon-152x152.png",
+        "/demo/assets/icons/icon-192x192.png",
+        "/demo/assets/icons/icon-384x384.png",
+        "/demo/assets/icons/icon-512x512.png",
+        "/demo/assets/icons/icon-72x72.png",
+        "/demo/assets/icons/icon-96x96.png",
+        "/demo/assets/logo.svg",
+        "/demo/assets/logo_inkscape.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/demo/5.15e5a408c0b01938a02b.js": "33b9a970203e99d5473d39f62a5e89df482a0266",
+    "/demo/assets/aerolighting.svg": "1a3641f7363bb51ddf8072c8b7407e0e1450d703",
+    "/demo/assets/aerolighting_inkscape.svg": "c1fe64114ccaaee41d26c3716a5ced0a4868cac6",
+    "/demo/assets/aerolighting_letter.png": "d52ff221061ad8f558b9f08b7e6593197ffa392d",
+    "/demo/assets/aerolighting_letter.svg": "16dcce2dccd4dd15d264483ab999afe84c634a02",
+    "/demo/assets/icons-new/apple-touch-icon-114x114.png": "191b20ea0c19d562a9d62d9fc1b698e1293a9a4a",
+    "/demo/assets/icons-new/apple-touch-icon-120x120.png": "b717f7a74eadf3c5873d94315de465e1b5d2c98e",
+    "/demo/assets/icons-new/apple-touch-icon-144x144.png": "4a7f8c0ee8bc9bb307c6a77b1438997299a32b95",
+    "/demo/assets/icons-new/apple-touch-icon-152x152.png": "6918e3bb78bf3cbd710193e65e1ca5e79517b034",
+    "/demo/assets/icons-new/apple-touch-icon-57x57.png": "6fef1e20be0a42ac162f31c75ff7bd20a6d8012f",
+    "/demo/assets/icons-new/apple-touch-icon-60x60.png": "8ac0c8d42cdc3fa46500c8563c794dbcb7aec488",
+    "/demo/assets/icons-new/apple-touch-icon-72x72.png": "1e5432e3ea623d92fd0ac639e86105f621f58913",
+    "/demo/assets/icons-new/apple-touch-icon-76x76.png": "bf55cda6c6b92485fb44cfadd79fc8eb9f049661",
+    "/demo/assets/icons-new/code.txt": "39407fe98cacb735030ea65e6408ee5c5a612866",
+    "/demo/assets/icons-new/favicon-128.png": "6e7871b73c2828a95eced88825cdaa0ead021c24",
+    "/demo/assets/icons-new/favicon-16x16.png": "e2f3526a6d5fd8bec87b28e7db6bd5e207bf6e31",
+    "/demo/assets/icons-new/favicon-196x196.png": "e89ccfcf8f0b8a586e42f9097c117bfd4f6dcf72",
+    "/demo/assets/icons-new/favicon-32x32.png": "8a470312ef3482b0be48848f0201af3257509fe4",
+    "/demo/assets/icons-new/favicon-96x96.png": "d5b8bf1b45654d530f2bc089f2f4c6cd23d7a549",
+    "/demo/assets/icons-new/favicon.ico": "4c65f9dac9d471651739602ad7f372db0d0f4f23",
+    "/demo/assets/icons-new/mstile-144x144.png": "4a7f8c0ee8bc9bb307c6a77b1438997299a32b95",
+    "/demo/assets/icons-new/mstile-150x150.png": "9e0cddd379fdbe6f7294ecadde7161005cd5a9a2",
+    "/demo/assets/icons-new/mstile-310x150.png": "72186cc022b9451db04ca35e6d10daf7f4d2098f",
+    "/demo/assets/icons-new/mstile-310x310.png": "e871ce28ab1c727e38ec0594ab4bbaf3d9239b1a",
+    "/demo/assets/icons-new/mstile-70x70.png": "6e7871b73c2828a95eced88825cdaa0ead021c24",
+    "/demo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/demo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/demo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/demo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/demo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/demo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/demo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/demo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/demo/assets/logo.svg": "ac41a84bb39a8398955406b27855719a18b045c5",
+    "/demo/assets/logo_inkscape.svg": "4988e1eea48166818842fce5bd8bb0812cdc2d39",
+    "/demo/es2015-polyfills.1e04665e16f944715fd2.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
+    "/demo/favicon.ico": "d2e225e938a99af41bb92e030031126945cc85e3",
+    "/demo/index.html": "e87f4fd3127eb47614b1de8e260b8bafccbb8f8e",
+    "/demo/main.eb90ccbfcac3baf98c2a.js": "d38aa7fbd7915a5a14e5d5da7173c7a962455d37",
+    "/demo/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "/demo/runtime.724b8dc463fbe6a0062c.js": "1c4bd65cc3d761d89f97255068f126eadbd58234",
+    "/demo/styles.a3670646bf2b095052a7.css": "8215edbfcf27629f6a1b2dad7fbcd4cb90eaf98c"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}

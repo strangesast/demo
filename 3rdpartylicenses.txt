@@ -87,6 +87,8 @@ THE SOFTWARE.
 
 @angular/material/button
 
+@angular/material/button-toggle
+
 @angular/material/checkbox
 
 @angular/material/core
@@ -119,6 +121,9 @@ THE SOFTWARE.
 MIT
 
 @angular/router
+MIT
+
+@angular/service-worker
 MIT
 
 @ngrx/effects
